@@ -1,0 +1,28 @@
+#num {
+  color: #fff;
+  font-family: helvetica, Sans-serif;
+  font-weight: 400;
+  font-size: 200px;
+  font-size: 15vmax;
+  text-align: center;
+  text-decoration: underline;
+  cursor: pointer;
+
+  margin-bottom: 100px;
+}
+#list {
+  color: #999;
+  font-family: helvetica, Sans-serif;
+  font-weight: 400;
+  font-size: 3.7vmax;
+  width: 100%;
+}
+span {
+  transition: all 0.2s ease;
+}
+span:hover {
+  color: #fff;
+}
+body {
+  background-color: #222;
+}
